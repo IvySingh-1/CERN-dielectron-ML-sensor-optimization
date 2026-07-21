@@ -1,0 +1,7 @@
+Metric,Value
+Best Prediction Model,CatBoost
+Best RMSE,0.826
+Best R² Score,0.999
+Recommended Sensors,10
+Predicted Redundant Sensors,11
+Best Reconstructed Sensor,E2
